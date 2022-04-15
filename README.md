@@ -5,6 +5,26 @@
 
 jklb çuhçn
 
+
+
+
+
+
+
+
+
+wc4rvatvat34
+
+
+
+
+
+
+
+  y53v
+
+### Publications
+
 1. Mendonça A., Morais P.V., Pires A.C.C., Chung A.P., Oliveira P.V. (2021) Reducing Soil Permeability Using Bacteria-
 Produced Biopolymer. APPLIED SCIENCES, 11, 7278. doi: 10.3390/app11167278.
 
@@ -58,22 +78,3 @@ Diversity in Mangrove Sediment and Rhizosphere Samples. APPLIED AND ENVIRONMENTA
 (16), 5520-5528. doi: 10.1128/AEM.00386-12.
 
 
-
-
-
-
-
-
-
-
-wc4rvatvat34
-
-
-
-
-
-
-
-  y53v
-
-### Publications
