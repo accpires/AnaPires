@@ -4,8 +4,14 @@
 [Publications](https://github.com/accpires/AnaPires/edit/main/README.md#publications)
 
 
-### Publications
 
+<details open>
+<summary>
+
+### Publications
+  
+</summary>
+<br>
 1. Mendonça A., Morais P.V., Pires A.C.C., Chung A.P., Oliveira P.V. (2021) Reducing Soil Permeability Using Bacteria-
 Produced Biopolymer. APPLIED SCIENCES, 11, 7278. doi: 10.3390/app11167278.
 
@@ -58,4 +64,10 @@ Scophthalmus maximus and Solea senegalensis. PLOS ONE, 8, (11), e80847. doi: 10.
 Diversity in Mangrove Sediment and Rhizosphere Samples. APPLIED AND ENVIRONMENTAL MICROBIOLOGY, 78,
 (16), 5520-5528. doi: 10.1128/AEM.00386-12.
 
+</details>
+
+### Posters in Conferences
+
+1. Mendonça A., Morais P.V., Pires A.C.C., Chung A.P., Oliveira P.V. (2021) Reducing Soil Permeability Using Bacteria-
+Produced Biopolymer. APPLIED SCIENCES, 11, 7278. doi: 10.3390/app11167278.
 
