@@ -4,10 +4,16 @@
 [Publications](https://github.com/accpires/AnaPires/edit/main/README.md#publications)
 
   [Papers](https://github.com/accpires/AnaPires/edit/main/README.md#papers)
+    
   [Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters)
 
+<details open>
+<summary>
+  
+## Scientific Communications, Classes and Seminars
 
-
+</summary>
+<br>
 
   
 ## Publications
