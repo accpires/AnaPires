@@ -1,5 +1,5 @@
 # Ana Pires
-[![pic](https://github.com/accpires/AnaPires/blob/main/transferir.png)](https://some-url.dev/)
+![pic](https://github.com/accpires/AnaPires/blob/main/transferir.png)
 
 [Publications](https://github.com/accpires/AnaPires/edit/main/README.md#publications)
 
