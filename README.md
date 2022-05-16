@@ -15,6 +15,50 @@
 </summary>
 <br>
 
+International Day of the Microorganism 2021, Coimbra (Portugal)
+September 2021
+•	Participation on the exhibition of “Pet Microorganisms” within the commemorations of the International Day of the Microorganism 2021 in Coimbra, a collaboration with the Exploratory - Coimbra Live Science Center and the Portuguese Society of Microbiology, patronized by FEMS (Department of Life Sciences, University of Coimbra)
+
+International Day of the Microorganism 2020, Coimbra (Portugal)
+September 2020
+•	Participation on the exhibition of “Pet Microorganisms” within the commemorations of the International Day of the Microorganism 2020 in Coimbra, a collaboration with the Exploratory - Coimbra Live Science Center and the Portuguese Society of Microbiology, patronized by FEMS (Department of Life Sciences, University of Coimbra)
+
+Research Summit 2019, Aveiro (Portugal)
+July 2019
+•	Oral presentation: “Comparison of bacterial communities in sponge, sediment and water biotopes in the Indo-Pacific region” at University of Aveiro
+
+Class “Archaea in the Environment”, Aveiro (Portugal)
+October 2017
+•	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 19 October of 2017 (Department of Biology, University of Aveiro)
+
+Class “Archaea in the Environment”, Aveiro (Portugal)
+October 2016
+•	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
+
+Class “Archaea in the Environment”, Aveiro (Portugal)
+October 2015
+•	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
+
+BIOMEET’10, Cantanhede (Portugal)
+October 2015
+•	5th Annual Meeting of Portuguese Biotechnology Companies at Biocant
+
+International Meeting on Marine Resources 2010, Peniche (Portugal)
+November 2010
+•	International Meeting on Marine Resources 2010 (IMMR10) at School of Tourism and Maritime Technology, Peniche
+
+Encontro Técnico de Biotecnologia, Peniche (Portugal)
+May 2007
+•	Encontro Técnico de Biotecnologia, 31 May of 2007 (ESTM – Câmara Municipal de Peniche, Peniche)
+
+III Dia de Biologia Marinha e Biotecnologia, Peniche (Portugal)
+March 2007
+•	III Dia de Biologia Marinha e Biotecnologia, “Emerso e Submerso” at School of Tourism and Maritime Technology, Peniche
+
+BIOMEET’06, Cantanhede (Portugal)
+November 2006
+•	1st Annual Meeting of Portuguese Biotechnology Companies  at Biocant
+
   
 ## Publications
 
