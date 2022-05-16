@@ -8,12 +8,12 @@
 <details open>
 <summary>
 
-### Publications
+## Publications
   
 </summary>
 <br>
 1. Mendonça A., Morais P.V., Pires A.C.C., Chung A.P., Oliveira P.V. (2021) Reducing Soil Permeability Using Bacteria-
-Produced Biopolymer. APPLIED SCIENCES, 11, 7278. doi: 10.3390/app11167278.
+Produced Biopolymer. APPLIED SCIENCES, 11, 7278. [doi:10.3390/app11167278](https://www.mdpi.com/2076-3417/11/16/7278)
 
 2. Pires A., Oliveira V., Cleary D., Polónia A.R., Coelho F., Waheed Z., de Voogd N., Gomes N.C.M. (2021) Bacterial
 composition and putative functions associated with sponges, sediment and seawater from the Tioman coral reef
