@@ -2,6 +2,7 @@
 ![pic](https://github.com/accpires/AnaPires/blob/main/transferir.png)
 
 [Scientific Communications, Classes and Seminars](https://github.com/accpires/AnaPires/edit/main/README.md#scientific-communications-classes-and-seminars)
+
 [Publications](https://github.com/accpires/AnaPires/edit/main/README.md#publications)
 
 [Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters-in-conferences)
@@ -14,17 +15,17 @@
 </summary>
 <br>
 
+###### <span style="color:grey"> September 2021 </span>
 International Day of the Microorganism 2021, Coimbra (Portugal)
-September 2021
-•	Participation on the exhibition of “Pet Microorganisms” within the commemorations of the International Day of the Microorganism 2021 in Coimbra, a collaboration with the Exploratory - Coimbra Live Science Center and the Portuguese Society of Microbiology, patronized by FEMS (Department of Life Sciences, University of Coimbra)
+   *	Participation on the exhibition of “Pet Microorganisms” within the commemorations of the International Day of the Microorganism 2021 in Coimbra, a collaboration with the Exploratory - Coimbra Live Science Center and the Portuguese Society of Microbiology, patronized by FEMS (Department of Life Sciences, University of Coimbra)
 
+###### <span style="color:grey"> September 2020 </span>
 International Day of the Microorganism 2020, Coimbra (Portugal)
-September 2020
-•	Participation on the exhibition of “Pet Microorganisms” within the commemorations of the International Day of the Microorganism 2020 in Coimbra, a collaboration with the Exploratory - Coimbra Live Science Center and the Portuguese Society of Microbiology, patronized by FEMS (Department of Life Sciences, University of Coimbra)
+   *	Participation on the exhibition of “Pet Microorganisms” within the commemorations of the International Day of the Microorganism 2020 in Coimbra, a collaboration with the Exploratory - Coimbra Live Science Center and the Portuguese Society of Microbiology, patronized by FEMS (Department of Life Sciences, University of Coimbra)
 
+###### <span style="color:grey"> July 2019 </span>
 Research Summit 2019, Aveiro (Portugal)
-July 2019
-•	Oral presentation: “Comparison of bacterial communities in sponge, sediment and water biotopes in the Indo-Pacific region” at University of Aveiro
+   *	Oral presentation: “Comparison of bacterial communities in sponge, sediment and water biotopes in the Indo-Pacific region” at University of Aveiro
 
 Class “Archaea in the Environment”, Aveiro (Portugal)
 October 2017
