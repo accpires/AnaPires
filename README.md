@@ -1,11 +1,10 @@
 # Ana Pires
 ![pic](https://github.com/accpires/AnaPires/blob/main/transferir.png)
 
+[Scientific Communications, Classes and Seminars](https://github.com/accpires/AnaPires/edit/main/README.md#scientific-communications-classes-and-seminars)
 [Publications](https://github.com/accpires/AnaPires/edit/main/README.md#publications)
 
-  [Papers](https://github.com/accpires/AnaPires/edit/main/README.md#papers)
-    
-  [Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters)
+[Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters-in-conferences)
 
 <details open>
 <summary>
