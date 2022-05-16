@@ -10,7 +10,7 @@
 <details open>
 <summary>
   
-## Scientific Communications, Classes and Seminars
+### Scientific Communications, Classes and Seminars
 
 </summary>
 <br>
