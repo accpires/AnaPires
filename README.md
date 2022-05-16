@@ -53,7 +53,7 @@
 </summary>
 <br>
 
-1. Oliveira V.; **Pires A.C.C.**; Cleary D.F.R.; Polónia A.R.M.; Lim S.C.; de Voogd, NicoleJ.; Gomes N.C.M.. 2017. "Bacterial communities of Xestospongia testudinaria, sediment and water in a singaporean coral reef ecosystem". BAGECO 2017- 14th Symposium on Bacterial Genetics and Ecology - Aberdeen, Scotland 
+1. Oliveira V.; **Pires A.C.C.**; Cleary D.F.R.; Polónia A.R.M.; Lim S.C.; de Voogd, NicoleJ.; Gomes N.C.M.. 2017. "Bacterial communities of *Xestospongia testudinaria*, sediment and water in a singaporean coral reef ecosystem". BAGECO 2017- 14th Symposium on Bacterial Genetics and Ecology - Aberdeen, Scotland 
 
 2. Coelho, F.J.R.C.; Rocha R.J.M; **Pires A.C.C.**; Castanheira J.M.; Almeida A.; Calado R.; Cleary D.F.R.; Gomes N.C.M.. 2013. "Ocean acidification and oil contamination have a synergistic effect on microbial community composition". FEMS - Leipzig, Germany
 
