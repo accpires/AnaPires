@@ -53,17 +53,17 @@
 </summary>
 <br>
 
-1. Oliveira V.; Pires A.C.C.; Cleary D.F.R.; Polónia A.R.M.; Lim S.C.; de Voogd, NicoleJ.; Gomes N.C.M.. 2017. "Bacterial communities of Xestospongia testudinaria, sediment and water in a singaporean coral reef ecosystem". BAGECO 2017- 14th Symposium on Bacterial Genetics and Ecology - Aberdeen, Scotland 
+1. Oliveira V.; **Pires A.C.C.**; Cleary D.F.R.; Polónia A.R.M.; Lim S.C.; de Voogd, NicoleJ.; Gomes N.C.M.. 2017. "Bacterial communities of Xestospongia testudinaria, sediment and water in a singaporean coral reef ecosystem". BAGECO 2017- 14th Symposium on Bacterial Genetics and Ecology - Aberdeen, Scotland 
 
-2. Coelho, F.J.R.C.; Rocha R.J.M; Pires A.C.C.; Castanheira J.M.; Almeida A.; Calado R.; Cleary D.F.R.; Gomes N.C.M.. 2013. "Ocean acidification and oil contamination have a synergistic effect on microbial community composition". FEMS - Leipzig, Germany
+2. Coelho, F.J.R.C.; Rocha R.J.M; **Pires A.C.C.**; Castanheira J.M.; Almeida A.; Calado R.; Cleary D.F.R.; Gomes N.C.M.. 2013. "Ocean acidification and oil contamination have a synergistic effect on microbial community composition". FEMS - Leipzig, Germany
 
-3. Coelho F.J.R.C.; Rocha R.J.M.; Pires A.C.C.; Castanheira J.M.; Rocha S.M.; Costa R.; Almeida A.; et al. 2013. "Synergistic effects of global climate change and oil pollution on estuarine sediment bacterial communities". FEMS - Leipzig, Germany
+3. Coelho F.J.R.C.; Rocha R.J.M.; **Pires A.C.C.**; Castanheira J.M.; Rocha S.M.; Costa R.; Almeida A.; et al. 2013. "Synergistic effects of global climate change and oil pollution on estuarine sediment bacterial communities". FEMS - Leipzig, Germany
 
-4. Coelho F.J.R.C.; Rocha R.J.M.; Pires A.C.C.; Castanheira J.M.; Rocha S.M.; Costa R.; Almeida A.; et al. 2013. "Synergistic impact of global climate change and oil pollution on estuarine sediment communities simulated in laboratory microcosms". 27º Congresso Brasileiro de Microbiologia - Natal, Brasil
+4. Coelho F.J.R.C.; Rocha R.J.M.; **Pires A.C.C.**; Castanheira J.M.; Rocha S.M.; Costa R.; Almeida A.; et al. 2013. "Synergistic impact of global climate change and oil pollution on estuarine sediment communities simulated in laboratory microcosms". 27º Congresso Brasileiro de Microbiologia - Natal, Brasil
 
-5. Coelho F.J.R.C.; Rocha R.J.M.; Pires A.C.C.; Castanheira J.M.; Costa R.; Lillebø A.I.; Almeida A.; et al. 2012. "Marine experimental life support system for microbial communities". International Society for Microbial Ecology - Copenhagen, Denmark
+5. Coelho F.J.R.C.; Rocha R.J.M.; **Pires A.C.C.**; Castanheira J.M.; Costa R.; Lillebø A.I.; Almeida A.; et al. 2012. "Marine experimental life support system for microbial communities". International Society for Microbial Ecology - Copenhagen, Denmark
 
-6. Pires, A.C.C.; Cleary, D.F.R.; Calado, R.; Almeida, A.; Cunha, Â.; Cavalcanti, S.D.G.A.; Smalla, K.; Gomes, N.C.M.. 2010. "Rhizosphere Effect on Archaeal Communities Present in Mangrove Sediment". International Meeting on Marine Resources (IMMR10) - Peniche, Portugal
+6. **Pires, A.C.C.**; Cleary, D.F.R.; Calado, R.; Almeida, A.; Cunha, Â.; Cavalcanti, S.D.G.A.; Smalla, K.; Gomes, N.C.M.. 2010. "Rhizosphere Effect on Archaeal Communities Present in Mangrove Sediment". International Meeting on Marine Resources (IMMR10) - Peniche, Portugal
 
 
 </details>
