@@ -59,14 +59,14 @@ BIOMEET’06, Cantanhede (Portugal)
 November 2006
 •	1st Annual Meeting of Portuguese Biotechnology Companies  at Biocant
 
+</details>
   
-## Publications
 
 
 <details open>
 <summary>
 
-### Papers
+### Publications
 
 </summary>
 <br>
