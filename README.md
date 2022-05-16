@@ -27,17 +27,17 @@ International Day of the Microorganism 2020, Coimbra (Portugal)
 Research Summit 2019, Aveiro (Portugal)
    *	Oral presentation: “Comparison of bacterial communities in sponge, sediment and water biotopes in the Indo-Pacific region” at University of Aveiro
 
+###### <span style="color:grey"> October 2017 </span>
 Class “Archaea in the Environment”, Aveiro (Portugal)
-October 2017
-•	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 19 October of 2017 (Department of Biology, University of Aveiro)
+   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 19 October of 2017 (Department of Biology, University of Aveiro)
 
+###### <span style="color:grey"> October 2016 </span>
 Class “Archaea in the Environment”, Aveiro (Portugal)
-October 2016
-•	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
+   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
 
+###### <span style="color:grey"> October 2015 </span>
 Class “Archaea in the Environment”, Aveiro (Portugal)
-October 2015
-•	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
+   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
 
 BIOMEET’10, Cantanhede (Portugal)
 October 2015
