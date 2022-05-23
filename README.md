@@ -1,5 +1,5 @@
 # Ana Pires
-![pic](https://github.com/accpires/AnaPires/blob/main/transferir.png)
+<img src="https://github.com/accpires/AnaPires/blob/main/IMG_20200206_105428.jpg" width="200" height="300">
 
 [Scientific Communications, Classes and Seminars](https://github.com/accpires/AnaPires/edit/main/README.md#scientific-communications-classes-and-seminars)
 
