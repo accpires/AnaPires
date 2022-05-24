@@ -1,5 +1,5 @@
 # Ana Pires
-<img src="https://github.com/accpires/AnaPires/blob/main/IMG_20200206_105428.jpg" width="200" height="300">
+<img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
 
 [Scientific Communications, Classes and Seminars](https://github.com/accpires/AnaPires/edit/main/README.md#scientific-communications-classes-and-seminars)
 
@@ -39,6 +39,7 @@ Class “Archaea in the Environment”, Aveiro (Portugal)
 Class “Archaea in the Environment”, Aveiro (Portugal)
    *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
 
+###### <span style="color:grey"> Decembe0 2015 </span>
 BIOMEET’10, Cantanhede (Portugal)
 October 2015
 •	5th Annual Meeting of Portuguese Biotechnology Companies at Biocant
