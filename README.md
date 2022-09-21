@@ -61,7 +61,21 @@ November 2006
 •	1st Annual Meeting of Portuguese Biotechnology Companies  at Biocant
 
 </details>
-  
+
+
+
+<details open>
+<summary>
+
+### Collaboration in Scientific Projects
+
+</summary>
+<br>
+
+
+
+</details>
+
 
 
 <details open>
