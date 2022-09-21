@@ -115,6 +115,8 @@ November 2006
 5. Coelho F.J.R.C., Rocha R.J.M., **Pires A.C.C.**, Castanheira J.M., Costa R., Lillebø A.I., Almeida A. et al. 2012. "Marine experimental life support system for microbial communities". International Society for Microbial Ecology - Copenhagen, Denmark
 
 6. **Pires A.C.C.**, Cleary D.F.R., Calado R., Almeida A., Cunha Â., Cavalcanti S.D.G.A., Smalla K. and Gomes N.C.M.. 2010. "Rhizosphere Effect on Archaeal Communities Present in Mangrove Sediment". International Meeting on Marine Resources (IMMR10) - Peniche, Portugal
+  
+7. **Pires, A.C.C.**; Santos, A.L.; Becking, L.E.; Voogd, N.J.; Almeida, A.; Cunha, Â.; Calado, R.; Cleary, D.F.R.; Gomes, N.C.M.. 2009. "Freeze-thaw pre-lysis may not improve microbial DNA extraction from sponges". BioMicroWorld’09 – III International Conference on Environmental, Industrial and Applied Microbiology - Lisbon, Portugal
 
 
 </details>
