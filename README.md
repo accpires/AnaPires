@@ -72,11 +72,17 @@ November 2006
 <br>
 
 2020: Biorecover – Development of an innovative sustainable strategy for selective biorecover of critical raw materials from Primary and Secondary sources. Financed by European Union’s Horizon 2020
+  
 2019-2020: PTW – Biotools for a sustainable supply of tungsten from biodetection to bioleaching and biorecovery. Financed by FCT and FEDER (University of Coimbra, Portugal)
+  
 2016-2019: EcoTech-SPONGE – Assessing the ecological functions and potential biotechnological applications of plasmid assemblages from microbial symbionts of marine sponges. Financed by Fundação para a Ciência e a Tecnologia (FCT). Coordinator: Dr. Newton Gomes (CESAM & Department of Biology, University of Aveiro, Portugal)
+  
 2012-2014: SymbioCoRe – Synergies through Merging BIOlogical and biogeochemical expertise in COral REsearch. Financed by European Commission. Coordinator: Dr. João Serôdio (CESAM & Department of Biology, University of Aveiro, Portugal)
+  
 2011-2014: AquaSafe – Development of new technologies to anticipate and diagnose disease outbreaks in aquaculture. Financed by European Fisheries Fund. Coordinator: Dr. Newton Gomes (CESAM & Department of Biology, University of Aveiro, Portugal)
+  
 2011-2014: LTER-RAVE – Long term monitoring in the Ria de Aveiro: towards a deeper understanding of ecological, environmental and economic processes. Financed by Fundação para a Ciência e a Tecnologia (FCT). Coordinator: Dr. Daniel Cleary (CESAM & Department of Biology, University of Aveiro, Portugal)
+  
 2010-2012: Global Climate Change and Pollution: a synergy designed for disaster? (Ref: PTDC/AAC-CLI/107916/2008). Financed by Fundação para a Ciência e a Tecnologia (FCT). Coordinator: Dr. Newton Gomes (CESAM & Department of Biology, University of Aveiro, Portugal)
 
 </details>
