@@ -144,7 +144,6 @@ Global Climate Change and Pollution: a synergy designed for disaster? (Ref: PTDC
 </details>
 
 
-
 <details open>
 <summary>
 
