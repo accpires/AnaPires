@@ -52,7 +52,9 @@ Bacterial communities from a Singaporean coral reef ecosystem
 ###### <span style="color:grey"> May 2012 </span>
 Archaeal diversity in mangrove sediment and rhizosphere samples
     * Studied the effect of mangrove roots of different mangrove plant species on sediment archaeal populations from Guanabara Bay (Rio de Janeiro, Brazil), using MEGA and vegan and vcd packages in R
-  
+
+</details>
+
 <details open>
 <summary>
   
