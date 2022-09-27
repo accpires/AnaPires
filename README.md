@@ -3,6 +3,8 @@
 
 [Scientific Communications, Classes and Seminars](https://github.com/accpires/AnaPires/edit/main/README.md#scientific-communications-classes-and-seminars)
 
+[Collaboration in Scientific Projects](https://github.com/accpires/AnaPires#collaboration-in-scientific-projects)
+
 [Publications](https://github.com/accpires/AnaPires/edit/main/README.md#publications)
 
 [Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters-in-conferences)
