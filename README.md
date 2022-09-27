@@ -12,6 +12,50 @@
 <details open>
 <summary>
   
+### Data Science & Machine Learning Projects
+
+</summary>
+<br>
+
+###### <span style="color:grey"> May 2022 </span>
+New York Taxi Trip Duration Prediction
+    * Built a predictive model to predict the duration of the taxi ride using Automated Feature Engineering
+
+###### <span style="color:grey"> April 2022 </span>
+Netflix Movie Recommendation
+    * Built recommendation system to recommend movies to users based on the ratings given to different movies by the users using collaborative filtering
+  
+###### <span style="color:grey"> March 2022 </span>
+Pima Indians Diabetes Analysis
+    * Analysed different aspects of Diabetes in the Pima Indians tribe by doing EDA, descriptive statistics and data visualization
+
+###### <span style="color:grey"> January 2022 </span>
+Heart Disease Detection
+    * Built a predictive model to predict whether or not someone has heart disease based on their medical attributes using Scikit-learn
+
+###### <span style="color:grey"> January 2022 </span>
+Dog Breed Image Classifier
+    * Built a multi-class image classifier using TensorFlow 2.0 to identify the breed of a dog given an image of a dog
+  
+###### <span style="color:grey"> December 2021 </span>
+Bulldozer Price Predictor
+    * Built a predictive model to predict the sale price of bulldozers, using Scikit-learn
+
+###### <span style="color:grey"> February 2021 </span>
+Bacterial communities from the Tioman coral reef system
+    * Evaluated bacterial communities and characterised their predicted metagenomic gene content from marine sponge, sediment and seawater from the surrounding Tioman Island, Malaysia, using QIIME, MEGA7, vegan and ggplots2 packages in R and PICRUSt
+
+###### <span style="color:grey"> February 2018 </span>
+Bacterial communities from a Singaporean coral reef ecosystem
+    * Characterised and compared bacterial communities from Xestospongia testudinaria, seawater and sediment from a Singaporean coral reef ecosystem, using QIIME and vegan and ggplots packages in R
+  
+###### <span style="color:grey"> May 2012 </span>
+Archaeal diversity in mangrove sediment and rhizosphere samples
+    * Studied the effect of mangrove roots of different mangrove plant species on sediment archaeal populations from Guanabara Bay (Rio de Janeiro, Brazil), using MEGA and vegan and vcd packages in R
+  
+<details open>
+<summary>
+  
 ### Scientific Communications, Classes and Seminars
 
 </summary>
