@@ -25,40 +25,39 @@ International Day of the Microorganism 2020, Coimbra (Portugal)
 
 ###### <span style="color:grey"> July 2019 </span>
 Research Summit 2019, Aveiro (Portugal)
-   *	Oral presentation: “Comparison of bacterial communities in sponge, sediment and water biotopes in the Indo-Pacific region” at University of Aveiro
+   *	Oral presentation: “Comparison of bacterial communities in sponge, sediment and water biotopes in the Indo-Pacific region”, July 3-5 of 2019 (University of Aveiro)
 
 ###### <span style="color:grey"> October 2017 </span>
 Class “Archaea in the Environment”, Aveiro (Portugal)
-   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 19 October of 2017 (Department of Biology, University of Aveiro)
+   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, October 19 of 2017 (Department of Biology, University of Aveiro)
 
 ###### <span style="color:grey"> October 2016 </span>
 Class “Archaea in the Environment”, Aveiro (Portugal)
-   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
+   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, October 26 of 2016 (Department of Biology, University of Aveiro)
 
 ###### <span style="color:grey"> October 2015 </span>
 Class “Archaea in the Environment”, Aveiro (Portugal)
-   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, 26 October of 2016 (Department of Biology, University of Aveiro)
+   *	Class “Archaea in the Environment” for Applied and Environmental Microbiology course, October 14 of 2015 (Department of Biology, University of Aveiro)
 
-###### <span style="color:grey"> Decembe0 2015 </span>
+###### <span style="color:grey"> December 2010 </span>
 BIOMEET’10, Cantanhede (Portugal)
-October 2015
-•	5th Annual Meeting of Portuguese Biotechnology Companies at Biocant
+  * 5th Annual Meeting of Portuguese Biotechnology Companies, December 16 of 2010 (Biocant, Cantanhede, Coimbra)
 
+###### <span style="color:grey"> November 2010 </span>
 International Meeting on Marine Resources 2010, Peniche (Portugal)
-November 2010
-•	International Meeting on Marine Resources 2010 (IMMR10) at School of Tourism and Maritime Technology, Peniche
+  * International Meeting on Marine Resources 2010 (IMRR10), November 16-17 of 2010 (School of Tourism and Maritime Technology, Peniche)
 
+###### <span style="color:grey"> May 2007 </span>
 Encontro Técnico de Biotecnologia, Peniche (Portugal)
-May 2007
-•	Encontro Técnico de Biotecnologia, 31 May of 2007 (ESTM – Câmara Municipal de Peniche, Peniche)
+  * Encontro Técnico de Biotecnologia, 31 May of 2007 (ESTM – Câmara Municipal de Peniche, Peniche)
 
+###### <span style="color:grey"> March 2007 </span>
 III Dia de Biologia Marinha e Biotecnologia, Peniche (Portugal)
-March 2007
-•	III Dia de Biologia Marinha e Biotecnologia, “Emerso e Submerso” at School of Tourism and Maritime Technology, Peniche
+  * III Dia de Biologia Marinha e Biotecnologia, “Emerso e Submerso”, March 7 of 2007 (School of Tourism and Maritime Technology, Peniche)
 
+ ###### <span style="color:grey"> November 2006 </span>
 BIOMEET’06, Cantanhede (Portugal)
-November 2006
-•	1st Annual Meeting of Portuguese Biotechnology Companies  at Biocant
+  * 1st Annual Meeting of Portuguese Biotechnology Companies, November 10 of 2006 (Biocant, Cantanhede, Coimbra)
 
 </details>
   
