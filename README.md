@@ -1,6 +1,7 @@
 # Ana Pires
 <img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
 
+[Data Science & Machine Learning Projects](https://github.com/accpires/AnaPires/edit/main/README.md#data-science--machine-learning-projects)
 [Scientific Communications, Classes and Seminars](https://github.com/accpires/AnaPires/edit/main/README.md#scientific-communications-classes-and-seminars)
 
 [Collaboration in Scientific Projects](https://github.com/accpires/AnaPires#collaboration-in-scientific-projects)
