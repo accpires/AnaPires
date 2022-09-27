@@ -71,7 +71,7 @@ BIOMEET’06, Cantanhede (Portugal)
 <br>
 
 ###### <span style="color:grey"> November 2020 </span>
-Biorecover – Development of an innovative sustainable strategy for selective biorecover of critical raw materials from Primary and Secondary sources. Financed by European Union’s Horizon 2020
+Biorecover – Development of an innovative sustainable strategy for selective biorecover of critical raw materials from Primary and Secondary sources. Financed by European Union’s Horizon 2020 (University of Coimbra, Portugal)
 
 ###### <span style="color:grey"> 2019-2020 </span>
 PTW – Biotools for a sustainable supply of tungsten from biodetection to bioleaching and biorecovery. Financed by FCT and FEDER (University of Coimbra, Portugal)
