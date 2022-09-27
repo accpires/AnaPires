@@ -9,6 +9,8 @@
 
 [Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters-in-conferences)
 
+</details>
+
 <details open>
 <summary>
   
