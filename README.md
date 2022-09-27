@@ -69,6 +69,7 @@ BIOMEET’06, Cantanhede (Portugal)
 
 </summary>
 <br>
+
 ###### <span style="color:grey"> November 2020 </span>
 Biorecover – Development of an innovative sustainable strategy for selective biorecover of critical raw materials from Primary and Secondary sources. Financed by European Union’s Horizon 2020
 
