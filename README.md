@@ -1,6 +1,8 @@
 # Ana Pires
 <img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
 
+[Professional Skills](https://github.com/accpires/AnaPires/edit/main/README.md#hobbies-and-activities)
+
 [Hobbies and Activities](https://github.com/accpires/AnaPires/edit/main/README.md#hobbies-and-activities)
 
 [Reviewer in International Journals](https://github.com/accpires/AnaPires/edit/main/README.md#reviewer-in-international-journals)
@@ -18,6 +20,27 @@
 [Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters-in-conferences)
 
 </details>
+
+<details open>
+<summary>
+
+### Professional Skills
+
+</summary>
+<br>
+
+ 
+  * Tutoring in Excel and Biology
+ 
+  * Editing and revision of master’s theses and scientific papers
+ 
+  * Supervising and mentoring bachelor and master’s students, and during their Summer internships
+  * Practical experience in Molecular Biology and Microbiology:
+    * Bacterial culturing and isolation, culture media preparation, cloning, FISH, microbial DNA extraction (plants, rhizosphere, water, marine sponges, codfish, seaslugs – internal and external, sea cucumbers – internal and external, fish gut and mucus, corals), DNA purification, PCR, RT-PCR, DGGE, RAPD and data analysis, including Sanger and Next Generation Sequencing (454 and Illumina) data analysis
+
+
+</details>
+
 
 <details open>
 <summary>
