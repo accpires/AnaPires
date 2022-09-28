@@ -20,7 +20,7 @@
 <details open>
 <summary>
 
-### Hobbies
+### Hobbies and Activities
 
 </summary>
 <br>
@@ -28,6 +28,10 @@
   * Quilling
  
   * Cross stitch
+ 
+  * PADI Scuba Diving Certification 
+     - PADI Open Water Diver
+
 </details>
 
 <details open>
