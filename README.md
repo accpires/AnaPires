@@ -27,7 +27,6 @@
 
 ###### <span style="color:grey"> 2021 </span>
 International Journal of Molecular Sciences
-
 </details>
   
 <details open>
@@ -44,7 +43,6 @@ Pan-European Hackathon #EUvsVirus 2020 (remote activity)
   * team LAMP for Covid19
   *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
   *	project available in: https://devpost.com/software/lamp-for-covid-19
-
 </details>
   
 <details open>
@@ -90,6 +88,7 @@ Bacterial communities from a Singaporean coral reef ecosystem
 ###### <span style="color:grey"> May 2012 </span>
 Archaeal diversity in mangrove sediment and rhizosphere samples
   * Studied the effect of mangrove roots of different mangrove plant species on sediment archaeal populations from Guanabara Bay (Rio de Janeiro, Brazil), using MEGA and vegan and vcd packages in R
+</details>
 
 <details open>
 <summary>
