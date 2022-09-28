@@ -16,6 +16,21 @@
 <details open>
 <summary>
   
+### Challenges
+
+</summary>
+<br>
+
+###### <span style="color:grey"> April 2020 </span>
+Pan-European Hackathon #EUvsVirus 2020 (remote activity)
+  * domain Health & Life | Cheap rapid tests
+  * team LAMP for Covid19
+  *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
+  *	project available in: https://devpost.com/software/lamp-for-covid-19
+
+<details open>
+<summary>
+  
 ### Data Science & Machine Learning Projects
 
 </summary>
