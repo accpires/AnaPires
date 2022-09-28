@@ -1,6 +1,8 @@
 # Ana Pires
 <img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
 
+[Challenges](https://github.com/accpires/AnaPires/edit/main/README.md#challenges)
+
 [Data Science & Machine Learning Projects](https://github.com/accpires/AnaPires/edit/main/README.md#data-science--machine-learning-projects)
 
 [Scientific Communications, Classes and Seminars](https://github.com/accpires/AnaPires/edit/main/README.md#scientific-communications-classes-and-seminars)
@@ -12,6 +14,17 @@
 [Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters-in-conferences)
 
 </details>
+
+<details open>
+<summary>
+  
+### Reviewer in International Journals
+
+</summary>
+<br>
+
+##<span style="color:grey"> 2020 </span>
+International Journal of Molecular Sciences
 
 <details open>
 <summary>
@@ -71,7 +84,7 @@ Bacterial communities from a Singaporean coral reef ecosystem
 ###### <span style="color:grey"> May 2012 </span>
 Archaeal diversity in mangrove sediment and rhizosphere samples
   * Studied the effect of mangrove roots of different mangrove plant species on sediment archaeal populations from Guanabara Bay (Rio de Janeiro, Brazil), using MEGA and vegan and vcd packages in R
-</details>
+
 <details open>
 <summary>
   
