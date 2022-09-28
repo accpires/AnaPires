@@ -25,6 +25,7 @@
 </summary>
 <br>
   * Quilling
+ 
   * Cross stitch
 </details>
 
