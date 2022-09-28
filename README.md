@@ -28,9 +28,11 @@
 ###### <span style="color:grey"> 2021 </span>
 International Journal of Molecular Sciences
 
+</details>
+  
 <details open>
 <summary>
-  
+
 ### Challenges
 
 </summary>
