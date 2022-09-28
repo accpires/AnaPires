@@ -33,12 +33,18 @@
 
 ###### <span style="color:grey"> May 2021 – January 2022 </span>
  Waitress at Cookies by Cath, Aveiro (Portugal)
-  *	Skills needed for the job:
   *	Quick and efficient working manners
   *	Excellent communication skills
   *	Ability to work under pressure
   *	Easy-going person with a professional attitude
   *	Knowledgeable and able to help customers
+ 
+ ###### <span style="color:grey"> October 2019 – September 2020 </span>
+ Research Fellow, Coimbra (Portugal)
+  *	Project “PTW-Biotools for a sustainable supply of tungsten from biodetection to bioleaching and biorecovery” financed by FCT and FEDER, University of Coimbra (Portugal)
+  *	Supervision of master’s student (Materials Engineering); thesis: "Use of microbial biopolymer to decrease soil permeability by bioclogging" – using xanthan gum biopolymer in soil stabilisation and impermeabilization tests under different rain regimes
+  *	Evaluation of bacterial diversity and selection and characterisation of leaching bacteria from mining sediments
+  *	Supervision of Biochemistry bachelor students during their Summer internships
 
 </details>
  
