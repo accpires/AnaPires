@@ -45,6 +45,8 @@ Pan-European Hackathon #EUvsVirus 2020 (remote activity)
   *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
   *	project available in: https://devpost.com/software/lamp-for-covid-19
 
+</details>
+  
 <details open>
 <summary>
   
