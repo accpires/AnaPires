@@ -33,6 +33,10 @@
   * Tutoring in Excel and Biology
   * Editing and revision of master’s theses and scientific papers
   * Supervising and mentoring bachelor and master’s students, and during their Summer internships
+  * Experience in planning and executing field (terrestrial and aquatic environments) and laboratory experiments
+  * Experience in projects’ management, in the elaboration and justification of projects final reports and in stocks management and maintenance of the laboratory
+  * Ability to research and analyse bibliography, elaborate scientific assays and write scientific articles in environmental and molecular microbiology, molecular biology and microbial ecology
+  * Experience in R, QIIME, QIIME 2, Biolinux, PICRUSt, Primer, GelCompar, Mega, Bionumerics and Microsoft Office (Word, PowerPoint and Excel)
   * Practical experience in Molecular Biology and Microbiology:
     * Bacterial culturing and isolation
     * Culture media preparation
@@ -45,7 +49,7 @@
     * DGGE
     * RAPD
     * Data analysis - including Sanger and Next Generation Sequencing (454 and Illumina) data
-
+  * Knowledge in implementation of HACCP principles and in Quality Certification by the Standard NP EN ISO 9001: 2000 (laboratory certified by the Standard NP EN ISO/IEC 17025)
 
 </details>
 
