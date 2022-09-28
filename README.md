@@ -1,6 +1,8 @@
 # Ana Pires
 <img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
 
+[Professional Experience](https://github.com/accpires/AnaPires/blob/main/README.md#professional-skills)
+
 [Professional Skills](https://github.com/accpires/AnaPires/blob/main/README.md#professional-skills)
 
 [Hobbies and Activities](https://github.com/accpires/AnaPires/edit/main/README.md#hobbies-and-activities)
@@ -24,12 +26,30 @@
 <details open>
 <summary>
 
+### Professional Experience
+
+</summary>
+<br>
+
+###### <span style="color:grey"> May 2021 – January 2022 </span>
+ Waitress at Cookies by Cath, Aveiro (Portugal)
+  *	Skills needed for the job:
+  *	Quick and efficient working manners
+  *	Excellent communication skills
+  *	Ability to work under pressure
+  *	Easy-going person with a professional attitude
+  *	Knowledgeable and able to help customers
+
+</details>
+ 
+<details open>
+<summary>
+
 ### Professional Skills
 
 </summary>
 <br>
 
- 
   * Tutoring in Excel and Biology
   * Editing and revision of master’s theses and scientific papers
   * Supervising and mentoring bachelor and master’s students, and during their Summer internships
