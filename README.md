@@ -24,8 +24,8 @@
 
 </summary>
 <br>
-Quilling
-Cross stitch
+  * Quilling
+  * Cross stitch
 </details>
 
 <details open>
