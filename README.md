@@ -1,6 +1,8 @@
 # Ana Pires
 <img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
 
+[Hobbies and Activities](https://github.com/accpires/AnaPires/edit/main/README.md#hobbies-and-activities)
+
 [Reviewer in International Journals](https://github.com/accpires/AnaPires/edit/main/README.md#reviewer-in-international-journals)
 
 [Challenges](https://github.com/accpires/AnaPires/edit/main/README.md#challenges)
