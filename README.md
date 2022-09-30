@@ -63,14 +63,29 @@ PhD Student (Grant), University of Aveiro (Portugal)
 
 ###### <span style="color:grey"> November 2010 - December 2012 </span>
 Research Fellow, University of Aveiro (Portugal)
-  *	Project “Global climate change and pollution: a synergy designed for disaster?” (PTDC/AAC-CLI/107916/2008), University of Aveiro (Portugal)
+  *	Project “Global climate change and pollution: a synergy designed for disaster?” (PTDC/AAC-CLI/107916/2008)
   *	Field and laboratory work, including sampling, DNA extraction, FISH analyses, metagenomic analyses
   *	Microcosms set up
   *	Maintenance of supply tanks to microcosm
   *	Maintenance of microcosm light systems
   *	Tidal simulation
   *	Stock management of material needed for the project
+ 
+###### <span style="color:grey"> November 2010 - December 2012 </span>
+Intern Technician at CINFU (Centro de Formação Profissional da Indústria de Fundição), Porto (Portugal)
+  *	Maintenance of CINFU’s SGFOR database; Data insertion /management in the SGFOR database
 
+###### <span style="color:grey"> May 2008 - August 2008 </span>
+Unpaid intern at CINFU (Centro de Formação Profissional da Indústria de Fundição), Porto (Portugal)
+  *	Quality Certification of CINFU by the Standard NP EN ISO 9001: 2000, integrating the responsible team for Quality Management System
+
+###### <span style="color:grey"> April 2008 - August 2008 </span>
+Unpaid intern at HS2 – Higiene, Saúde e Segurança do Trabalho, Lda., Aveiro (Portugal)
+  *	Development and implementation of HACCP principles, integrating the responsible team for HACCP Systems of HS2
+ 
+###### <span style="color:grey"> June 2007 - March 2008 </span>
+Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
+  *	Costumer service, materials transportation, assistance in logistics
 
 </details>
  
