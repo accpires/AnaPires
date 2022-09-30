@@ -1,7 +1,7 @@
 # Ana Pires
 <img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
 
-[Additional Training](https://github.com/accpires/AnaPires/blob/main/README.md#professional-skills)
+[Additional Training](https://github.com/accpires/AnaPires/blob/main/README.md#additional-training)
 
 [Professional Experience](https://github.com/accpires/AnaPires/blob/main/README.md#professional-skills)
 
@@ -33,6 +33,47 @@
 </summary>
 <br>
 
+###### <span style="color:grey"> August of 2022 </span>
+Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes), Zero to Mastery Academy
+
+###### <span style="color:grey"> May of 2022 </span>
+Data Science and Machine Learning: Making Data-Driven Decisions program (12 weeks), MIT Institute for Data, Systems, and Society
+
+###### <span style="color:grey"> January of 2022 </span>
+Complete Machine Learning & Data Science Bootcamp 2021 (43h, 376 classes), Zero to Mastery Academy
+
+###### <span style="color:grey"> April of 2021 </span>
+Complete Python Developer in 2020: Zero to Mastery (30.5h, 329 classes), Zero to Mastery Academy
+
+###### <span style="color:grey"> March 23 to April 6 of 2021 </span>
+Time Management and Work Organization (25h), IEFP – Instituto do Emprego e Formação Profissional
+
+###### <span style="color:grey"> September 12-16 of 2016 </span>
+Advanced Course on Bioinformatics for Microbiologists (40h), Department de Biology, University of Aveiro
+
+###### <span style="color:grey"> May 25-29 of 2015 </span>
+Advanced Course on Biomarkers – SETAC Summer School (40h), Department de Biology, University of Aveiro
+
+###### <span style="color:grey"> July 15-19 of 2013 </span>
+Advanced Course on Microbial Diversity: Methods and Applications (40h), Department of Biology, University of Aveiro
+
+###### <span style="color:grey"> June 11-14 of 2013 </span>
+Advanced Course on Scientific Communication (40h), Department of Biology, University of Aveiro
+
+###### <span style="color:grey"> June 3- 7 of 2013 </span>
+Advance Course on Marine Microbiology (40h), Department of Biology, University of Aveiro
+
+###### <span style="color:grey"> February 9 of 2010 </span>
+“Utilização, Gestão e Calibração de Balanças” (1h), Laboratório Central de Análises, University of Aveiro
+
+###### <span style="color:grey"> March 7 to May 30 of 2009 </span>
+Advanced Introduction to Forensic Sciences (22h), Department of Biology, University of Aveiro
+
+###### <span style="color:grey"> March 3 to April 30 of 2008 </span>
+Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profissional) (96h), AIDA – Associação Industrial do Distrito de Aveiro
+
+</details>
+ 
 <details open>
 <summary>
 
