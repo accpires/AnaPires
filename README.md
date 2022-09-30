@@ -1,6 +1,8 @@
 # Ana Pires
 <img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
 
+[Academics](https://github.com/accpires/AnaPires/blob/main/README.md#academics)
+
 [Additional Training](https://github.com/accpires/AnaPires/blob/main/README.md#additional-training)
 
 [Professional Experience](https://github.com/accpires/AnaPires/blob/main/README.md#professional-skills)
