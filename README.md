@@ -28,6 +28,25 @@
 <details open>
 <summary>
 
+### Academics
+
+</summary>
+<br>
+
+###### <span style="color:grey"> 2019 </span>
+PhD in Biology, Specialization in Microbiology by the Department of Biology, University of Aveiro, Portugal
+
+###### <span style="color:grey"> 2010 </span>
+MSc in Microbiology by the Department of Biology, University of Aveiro, Portugal 
+ * final score of 17 out of 20
+ 
+###### <span style="color:grey"> 2007 </span>
+BSc in Marine Biology and Biotechnology – Biotechnology branch by the School of Tourism and Maritime Technology (ESTM) of the Polytechnic Institute of Leiria (IPL), Portugal
+ * final score of 15 out of 20
+ 
+<details open>
+<summary>
+
 ### Additional Training
 
 </summary>
