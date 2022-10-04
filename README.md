@@ -2,37 +2,8 @@
 
 <img align="left" width="150" height="180" src="https://user-images.githubusercontent.com/81449446/193809952-8c877822-9849-45ca-933d-4f55deeeb450.jpg">
 
-Passionate researcher with 10+ of experience in data manipulation, analysis and visualisation in R, resulting in 3 articles as first author and 9 articles as co-author. In these works, I performed data wrangling and ETL to prepare the sequences files to manipulate, analyse and visualize data. Fast learner, committed to work, with strong communication and problem-solving skills. Seeking to develop and improve data science skills
+<p class="text-justify"><Passionate researcher with 10+ of experience in data manipulation, analysis and visualisation in R, resulting in 3 articles as first author and 9 articles as co-author. In these works, I performed data wrangling and ETL to prepare the sequences files to manipulate, analyse and visualize data. Fast learner, committed to work, with strong communication and problem-solving skills. Seeking to develop and improve data science skills.></p>
 
-
-
-
-
-[Academics](https://github.com/accpires/AnaPires/blob/main/README.md#academics)
-
-[Additional Training](https://github.com/accpires/AnaPires/blob/main/README.md#additional-training)
-
-[Professional Experience](https://github.com/accpires/AnaPires/blob/main/README.md#professional-experience)
-
-[Professional Skills](https://github.com/accpires/AnaPires/blob/main/README.md#professional-skills)
-
-[Hobbies and Activities](https://github.com/accpires/AnaPires/edit/main/README.md#hobbies-and-activities)
-
-[Reviewer in International Journals](https://github.com/accpires/AnaPires/edit/main/README.md#reviewer-in-international-journals)
-
-[Challenges](https://github.com/accpires/AnaPires/edit/main/README.md#challenges)
-
-[Data Science & Machine Learning Projects](https://github.com/accpires/AnaPires/edit/main/README.md#data-science--machine-learning-projects)
-
-[Scientific Communications, Classes and Seminars](https://github.com/accpires/AnaPires/edit/main/README.md#scientific-communications-classes-and-seminars)
-
-[Collaboration in Scientific Projects](https://github.com/accpires/AnaPires#collaboration-in-scientific-projects)
-
-[Publications](https://github.com/accpires/AnaPires/edit/main/README.md#publications)
-
-[Posters in Conferences](https://github.com/accpires/AnaPires/edit/main/README.md#posters-in-conferences)
-
-</details>
 
 <details open>
 <summary>
