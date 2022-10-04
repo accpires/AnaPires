@@ -17,11 +17,13 @@ Passionate researcher with 10+ of experience in data manipulation, analysis and 
 
 ##### <span style="color:grey"> 2019 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+ 
 PhD in Biology, Specialization in Microbiology by the Department of Biology, University of Aveiro, Portugal
 
 ###### <span style="color:grey"> 2010 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
- MSc in Microbiology by the Department of Biology, University of Aveiro, Portugal 
+ 
+MSc in Microbiology by the Department of Biology, University of Aveiro, Portugal 
  * final score of 17 out of 20
  
 ###### <span style="color:grey"> 2007 </span>
@@ -37,7 +39,7 @@ BSc in Marine Biology and Biotechnology – Biotechnology branch by the School o
 </summary>
 <br>
 
-## <span style="color:grey"> August of 2022 </span>
+##### <span style="color:grey"> August of 2022 </span>
 Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes), Zero to Mastery Academy
 
 ###### <span style="color:grey"> May of 2022 </span>
@@ -52,23 +54,37 @@ Complete Python Developer in 2020: Zero to Mastery (30.5h, 329 classes), Zero to
 ###### <span style="color:grey"> March 23 to April 6 of 2021 </span>
 Time Management and Work Organization (25h), IEFP – Instituto do Emprego e Formação Profissional
 
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+ 
 ###### <span style="color:grey"> September 12-16 of 2016 </span>
 Advanced Course on Bioinformatics for Microbiologists (40h), Department de Biology, University of Aveiro
+ 
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> May 25-29 of 2015 </span>
 Advanced Course on Biomarkers – SETAC Summer School (40h), Department de Biology, University of Aveiro
+ 
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> July 15-19 of 2013 </span>
 Advanced Course on Microbial Diversity: Methods and Applications (40h), Department of Biology, University of Aveiro
+ 
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> June 11-14 of 2013 </span>
 Advanced Course on Scientific Communication (40h), Department of Biology, University of Aveiro
+ 
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> June 3- 7 of 2013 </span>
 Advance Course on Marine Microbiology (40h), Department of Biology, University of Aveiro
-
+ 
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+ 
 ###### <span style="color:grey"> February 9 of 2010 </span>
 “Utilização, Gestão e Calibração de Balanças” (1h), Laboratório Central de Análises, University of Aveiro
+ 
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> March 7 to May 30 of 2009 </span>
 Advanced Introduction to Forensic Sciences (22h), Department of Biology, University of Aveiro
