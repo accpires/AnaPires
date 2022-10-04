@@ -108,6 +108,7 @@ Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profiss
 <br>
 
 <img align="right" width="100" height="100" src="https://scontent.fopo5-2.fna.fbcdn.net/v/t39.30808-6/278084386_354041906740875_3531220556472153919_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W2677Vge3XUAX8U_xSD&_nc_ht=scontent.fopo5-2.fna&oh=00_AT-5-v2ys3cbT7wuNm2w7e_YoqXxtwOYXDEh8wXQhfz1sQ&oe=634067EC">
+ 
 ###### <span style="color:grey"> May 2021 – January 2022 </span>
  
  Waitress, Cookies by Cath, Aveiro (Portugal)
@@ -116,10 +117,9 @@ Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profiss
   *	Ability to work under pressure
   *	Easy-going person with a professional attitude
   *	Knowledgeable and able to help customers
- 
 
- 
 <img align="right" width="75" height="75" src="https://www.uc.pt/site/assets/files/1/lettering-uc.300x0.png">
+ 
 ###### <span style="color:grey"> October 2019 – September 2020 </span>
 
 Research Fellow, University of Coimbra (Portugal)
@@ -129,6 +129,7 @@ Research Fellow, University of Coimbra (Portugal)
   *	Supervision of Biochemistry bachelor students during their Summer internships
 
 <img align="right" width="75" height="75" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
 ###### <span style="color:grey"> May 2017 – September 2019 </span>
 
 Research Fellow, University of Aveiro (Portugal)
@@ -137,6 +138,7 @@ Research Fellow, University of Aveiro (Portugal)
   *	Laboratory work
 
 <img align="right" width="75" height="75" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
 ###### <span style="color:grey"> January 2013 – December 2016 </span>
 
 PhD Student (Grant), University of Aveiro (Portugal)
@@ -148,6 +150,7 @@ PhD Student (Grant), University of Aveiro (Portugal)
   *	Mentoring of master’s student (Microbiology); thesis: " Assessment of the codfish skin microbiology"
 
 <img align="right" width="75" height="75" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
 ###### <span style="color:grey"> November 2010 - December 2012 </span>
 
 Research Fellow, University of Aveiro (Portugal)
@@ -160,12 +163,14 @@ Research Fellow, University of Aveiro (Portugal)
   *	Stock management of material needed for the project
  
 <img align="right" width="75" height="75" src="https://www.cinfu.pt/img/logo_full.svg">
+
 ###### <span style="color:grey"> November 2010 - December 2012 </span>
 
 Intern Technician at CINFU (Centro de Formação Profissional da Indústria de Fundição), Porto (Portugal)
   *	Maintenance of CINFU’s SGFOR database; Data insertion /management in the SGFOR database
 
 <img align="right" width="100" height="100" src="https://www.cinfu.pt/img/logo_full.svg">
+
 ###### <span style="color:grey"> May 2008 - August 2008 </span>
 
 Unpaid intern at CINFU (Centro de Formação Profissional da Indústria de Fundição), Porto (Portugal)
