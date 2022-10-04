@@ -237,6 +237,7 @@ International Journal of Molecular Sciences
   * team LAMP for Covid19
   *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
   *	project available in: https://devpost.com/software/lamp-for-covid-19
+<br clear="left"/>
 </details>
   
 <details open>
