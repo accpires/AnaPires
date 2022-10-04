@@ -9,8 +9,6 @@ Passionate researcher with 10+ of experience in data manipulation, analysis and 
 
 ## Academics
 
-
-
 ###### <span style="color:grey"> 2019 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
  
@@ -27,6 +25,7 @@ MSc in Microbiology by the Department of Biology, University of Aveiro, Portugal
  
 BSc in Marine Biology and Biotechnology – Biotechnology branch by the School of Tourism and Maritime Technology (ESTM) of the Polytechnic Institute of Leiria (IPL), Portugal
  * final score of 15 out of 20
+
 
 
 ## Additional Training
