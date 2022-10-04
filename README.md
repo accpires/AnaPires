@@ -48,7 +48,7 @@ BSc in Marine Biology and Biotechnology – Biotechnology branch by the School o
 Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes), Zero to Mastery Academy
 
 ###### <span style="color:grey"> May of 2022 </span>
-<img align="left" width="50" height="50" src="https://idss.mit.edu/wp-content/themes/idss%202015/images/IDSS_Horizontal_FullColor.jpg">
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHBK7qvTvtkZA/company-logo_100_100/0/1519856414204?e=1672876800&v=beta&t=bvwTV5hfi5wqu9avyPAgeO0iDX13qBHZfQW9r1XG1YE">
  
 Data Science and Machine Learning: Making Data-Driven Decisions program (12 weeks), MIT Institute for Data, Systems, and Society
 
