@@ -231,7 +231,8 @@ International Journal of Molecular Sciences
 
 ###### <span style="color:grey"> April 2020 </span>
 <img align="left" width="150" height="185" src="https://user-images.githubusercontent.com/81449446/193787341-7a7d3b84-c916-467c-adb1-6545a673d9bf.png">
-Pan-European Hackathon #EUvsVirus 2020 (remote activity)
+
+ Pan-European Hackathon #EUvsVirus 2020 (remote activity)
     * Domain Health & Life | Cheap rapid tests
     * Team LAMP for Covid19
     *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
