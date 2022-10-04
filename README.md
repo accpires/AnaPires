@@ -232,9 +232,9 @@ International Journal of Molecular Sciences
 ###### <span style="color:grey"> April 2020 </span>
  <img src="https://user-images.githubusercontent.com/81449446/193787341-7a7d3b84-c916-467c-adb1-6545a673d9bf.png" width="150" height="185">
  
- Pan-European Hackathon #EUvsVirus 2020 (remote activity)
-  * domain Health & Life | Cheap rapid tests
-  * team LAMP for Covid19
+ <h1>Pan-European Hackathon #EUvsVirus 2020 (remote activity)<h1>
+  <h2>* domain Health & Life | Cheap rapid tests<h2>
+  <h2>* team LAMP for Covid19<h2>
   *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
   *	project available in: https://devpost.com/software/lamp-for-covid-19
 </details>
