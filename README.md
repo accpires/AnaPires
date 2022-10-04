@@ -51,12 +51,12 @@ Complete Machine Learning & Data Science Bootcamp 2021 (43h, 376 classes), Zero 
 ###### <span style="color:grey"> April of 2021 </span>
 Complete Python Developer in 2020: Zero to Mastery (30.5h, 329 classes), Zero to Mastery Academy
 
-###### <span style="color:grey"> March 23 to April 6 of 2021 </span>
+###### <span style="color:grey"> March 23 to April 6 of 2021 </span> 
 Time Management and Work Organization (25h), IEFP – Instituto do Emprego e Formação Profissional
-
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
  
 ###### <span style="color:grey"> September 12-16 of 2016 </span>
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
 Advanced Course on Bioinformatics for Microbiologists (40h), Department de Biology, University of Aveiro
  
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
