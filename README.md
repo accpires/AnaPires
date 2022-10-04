@@ -44,14 +44,12 @@ BSc in Marine Biology and Biotechnology – Biotechnology branch by the School o
 
 ###### <span style="color:grey"> August of 2022 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_100_100/0/1582272345448?e=1672876800&v=beta&t=vNRXRPU8QbFxLDfP3SVWNTggeP_iG5UZzq8uAiZZWBs">
-
 Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes), Zero to Mastery Academy
 
 ###### <span style="color:grey"> May of 2022 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHBK7qvTvtkZA/company-logo_100_100/0/1519856414204?e=1672876800&v=beta&t=bvwTV5hfi5wqu9avyPAgeO0iDX13qBHZfQW9r1XG1YE">
 
 <img align="right" width="50" height="50" src="https://idss.mit.edu/wp-content/themes/idss%202015/images/IDSS_Horizontal_FullColor.jpg">
- 
 Data Science and Machine Learning: Making Data-Driven Decisions program (12 weeks), MIT Institute for Data, Systems, and Society
 
 ###### <span style="color:grey"> January of 2022 </span>
@@ -64,47 +62,38 @@ Complete Python Developer in 2020: Zero to Mastery (30.5h, 329 classes), Zero to
 
 ###### <span style="color:grey"> March 23 to April 6 of 2021 </span> 
 <img align="left" width="50" height="50" src="https://scontent.fopo5-1.fna.fbcdn.net/v/t39.30808-6/274720011_318130380352522_1467164329790862991_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=EFa3oDMQVCEAX--GgBw&_nc_ht=scontent.fopo5-1.fna&oh=00_AT_9A-cEIJnqCNOKoCYD3VvFVPX1J3hxKnnWKM7nVKItUQ&oe=63412827">
- 
 Time Management and Work Organization (25h), IEFP – Instituto do Emprego e Formação Profissional
  
 ###### <span style="color:grey"> September 12-16 of 2016 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
-
 Advanced Course on Bioinformatics for Microbiologists (40h), Department de Biology, University of Aveiro
 
 ###### <span style="color:grey"> May 25-29 of 2015 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
-
 Advanced Course on Biomarkers – SETAC Summer School (40h), Department de Biology, University of Aveiro
 
 ###### <span style="color:grey"> July 15-19 of 2013 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
-
 Advanced Course on Microbial Diversity: Methods and Applications (40h), Department of Biology, University of Aveiro
 
 ###### <span style="color:grey"> June 11-14 of 2013 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
-
 Advanced Course on Scientific Communication (40h), Department of Biology, University of Aveiro
 
 ###### <span style="color:grey"> June 3- 7 of 2013 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
-
 Advance Course on Marine Microbiology (40h), Department of Biology, University of Aveiro
  
 ###### <span style="color:grey"> February 9 of 2010 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
-
 “Utilização, Gestão e Calibração de Balanças” (1h), Laboratório Central de Análises, University of Aveiro
 
 ###### <span style="color:grey"> March 7 to May 30 of 2009 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
-
 Advanced Introduction to Forensic Sciences (22h), Department of Biology, University of Aveiro
 
 ###### <span style="color:grey"> March 3 to April 30 of 2008 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHTv4dmjuAFPQ/company-logo_200_200/0/1519922054078?e=1672876800&v=beta&t=LRGSuyeF1iFC0dTRHJ57Ub2IvVYP0888PTurV938xwk">
-
 Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profissional) (96h), AIDA – Associação Industrial do Distrito de Aveiro
 
 </details>
@@ -230,6 +219,7 @@ Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
 </summary>
 <br>
 
+<img align="left" width="50" height="50" src="https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286">
 ###### <span style="color:grey"> 2021 </span>
 International Journal of Molecular Sciences
 </details>
