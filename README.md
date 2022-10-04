@@ -85,15 +85,8 @@ Advanced Introduction to Forensic Sciences (22h), Department of Biology, Univers
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHTv4dmjuAFPQ/company-logo_200_200/0/1519922054078?e=1672876800&v=beta&t=LRGSuyeF1iFC0dTRHJ57Ub2IvVYP0888PTurV938xwk">
 Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profissional) (96h), AIDA – Associação Industrial do Distrito de Aveiro
 
-</details>
- 
-<details open>
-<summary>
 
-### Professional Experience
-
-</summary>
-<br>
+## Professional Experience
 
 <img align="right" width="115" height="115" src="https://scontent.fopo5-2.fna.fbcdn.net/v/t39.30808-6/278084386_354041906740875_3531220556472153919_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W2677Vge3XUAX8U_xSD&_nc_ht=scontent.fopo5-2.fna&oh=00_AT-5-v2ys3cbT7wuNm2w7e_YoqXxtwOYXDEh8wXQhfz1sQ&oe=634067EC">
  
@@ -172,15 +165,8 @@ Unpaid intern at HS2 – Higiene, Saúde e Segurança do Trabalho, Lda., Aveiro 
 Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
   *	Costumer service, materials transportation, assistance in logistics
 
-</details>
- 
-<details open>
-<summary>
 
-### Professional Skills
-
-</summary>
-<br>
+## Professional Skills
 
   * Tutoring in Excel and Biology
   * Editing and revision of master’s theses and scientific papers
@@ -203,16 +189,7 @@ Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
     * Data analysis - including Sanger and Next Generation Sequencing (454 and Illumina) data
   * Knowledge in implementation of HACCP principles and in Quality Certification by the Standard NP EN ISO 9001: 2000 (laboratory certified by the Standard NP EN ISO/IEC 17025)
 
-</details>
-
-
-<details open>
-<summary>
-
-### Hobbies and Activities
-
-</summary>
-<br>
+## Hobbies and Activities
 
 <img align="right" width="125" height="75" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/310751785_490623762927579_1214065741002730295_n.jpg?stp=dst-jpg_p206x206&_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_ohc=9d2sFG2AbFcAX_mkxq9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLH2xUvE0ekYGgQfseQ5q1qFa_8wk_3ycyWGjOBCWN8hQ&oe=6361B8A7">
 <img align="right" width="100" height="100" src="https://www.padi.com/themes/custom/bootstrap_padi/public/images/logo_padi_dark.svg">
@@ -223,28 +200,14 @@ Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
   * PADI Scuba Diving Certification 
       (PADI Open Water Diver)
 
-</details>
-
-<details open>
-<summary>
-  
-### Reviewer in International Journals
-
-</summary>
-<br>
+## Reviewer in International Journals
 
 ###### <span style="color:grey"> 2021 </span>
 <img align="left" width="30" height="30" src="https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286">
 International Journal of Molecular Sciences
-</details>
-  
-<details open>
-<summary>
 
-### Challenges
 
-</summary>
-<br>
+## Challenges
 
 ###### <span style="color:grey"> April 2020 </span>
 <img align="left" width="150" height="185" src="https://user-images.githubusercontent.com/81449446/193787341-7a7d3b84-c916-467c-adb1-6545a673d9bf.png">
@@ -255,18 +218,8 @@ International Journal of Molecular Sciences
   * Team LAMP for Covid19
   *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
   *	Project available in: https://devpost.com/software/lamp-for-covid-19
-</details>
-
-
-
-<details open>
-<summary>
-
 
 ### Data Science & Machine Learning Projects
-
-</summary>
-<br>
 
 ###### <span style="color:grey"> May 2022 </span>
 New York Taxi Trip Duration Prediction
@@ -303,15 +256,9 @@ Bacterial communities from a Singaporean coral reef ecosystem
 ###### <span style="color:grey"> May 2012 </span>
 Archaeal diversity in mangrove sediment and rhizosphere samples
   * Studied the effect of mangrove roots of different mangrove plant species on sediment archaeal populations from Guanabara Bay (Rio de Janeiro, Brazil), using MEGA and vegan and vcd packages in R
-</details>
 
-<details open>
-<summary>
   
-### Scientific Communications, Classes and Seminars
-
-</summary>
-<br>
+## Scientific Communications, Classes and Seminars
 
 ###### <span style="color:grey"> September 2021 </span>
 International Day of the Microorganism 2021, Coimbra (Portugal)
@@ -356,14 +303,8 @@ III Dia de Biologia Marinha e Biotecnologia, Peniche (Portugal)
  ###### <span style="color:grey"> November 2006 </span>
 BIOMEET’06, Cantanhede (Portugal)
   * 1st Annual Meeting of Portuguese Biotechnology Companies, November 10 of 2006 (Biocant, Cantanhede, Coimbra)
-</details>
-<details open>
-<summary>
 
-### Collaboration in Scientific Projects
-
-</summary>
-<br>
+## Collaboration in Scientific Projects
 
 ###### <span style="color:grey"> November 2020 </span>
 Biorecover – Development of an innovative sustainable strategy for selective biorecover of critical raw materials from Primary and Secondary sources. Financed by European Union’s Horizon 2020 (University of Coimbra, Portugal)
@@ -385,14 +326,8 @@ LTER-RAVE – Long term monitoring in the Ria de Aveiro: towards a deeper unders
   
 ###### <span style="color:grey"> 2010-2012 </span>
 Global Climate Change and Pollution: a synergy designed for disaster? (Ref: PTDC/AAC-CLI/107916/2008). Financed by Fundação para a Ciência e a Tecnologia (FCT). Coordinator: Dr. Newton Gomes (CESAM & Department of Biology, University of Aveiro, Portugal)
-</details>
-<details open>
-<summary>
 
-### Publications
-
-</summary>
-<br>
+## Publications
 
 1. Mendonça A., Morais P.V., **Pires A.C.C.**, Chung A.P. and Oliveira P.V. (2021) Reducing Soil Permeability Using Bacteria-Produced Biopolymer. APPLIED SCIENCES, 11, 7278. [doi:10.3390/app11167278](https://www.mdpi.com/2076-3417/11/16/7278)
 
@@ -417,14 +352,8 @@ Global Climate Change and Pollution: a synergy designed for disaster? (Ref: PTDC
 11. Martins P., Cleary D.F.R., **Pires A.C.C.**, Rodrigues A.M., Quintino V., Calado R. and Gomes N.C.M. (2013) Molecular Analysis of Bacterial Communities and Detection of Potential Pathogens in a Recirculating Aquaculture System for *Scophthalmus maximus* and *Solea senegalensis*. PLOS ONE, 8(11), e80847. [doi:10.1371/journal.pone.0080847](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0080847)
 
 12. **Pires A.C.C.**, Cleary D.F.R., Almeida A., Cunha A., Dealtry S., Mendonca-Hagler L.C.S., Smalla K. and Gomes N.C.M. (2012) Denaturing Gradient Gel Electrophoresis and Barcoded Pyrosequencing Reveal Unprecedented Archaeal Diversity in Mangrove Sediment and Rhizosphere Samples. APPLIED AND ENVIRONMENTAL MICROBIOLOGY, 78(16), 5520-5528. [doi:10.1128/AEM.00386-12](https://journals.asm.org/doi/full/10.1128/AEM.00386-12)
-</details>
-<details open>
-<summary>
 
-### Posters in Conferences
-
-</summary>
-<br>
+## Posters in Conferences
 
 1. Oliveira V., **Pires A.C.C.**, Cleary D.F.R., Polónia A.R.M., Lim S.C., de Voogd N.J. and Gomes N.C.M.. 2017. "Bacterial communities of *Xestospongia testudinaria*, sediment and water in a Singaporean coral reef ecosystem". BAGECO 2017- 14th Symposium on Bacterial Genetics and Ecology - Aberdeen, Scotland 
 
@@ -439,7 +368,3 @@ Global Climate Change and Pollution: a synergy designed for disaster? (Ref: PTDC
 6. **Pires A.C.C.**, Cleary D.F.R., Calado R., Almeida A., Cunha Â., Cavalcanti S.D.G.A., Smalla K. and Gomes N.C.M.. 2010. "Rhizosphere Effect on Archaeal Communities Present in Mangrove Sediment". International Meeting on Marine Resources (IMMR10) - Peniche, Portugal
   
 7. **Pires, A.C.C.**; Santos, A.L.; Becking, L.E.; Voogd, N.J.; Almeida, A.; Cunha, Â.; Calado, R.; Cleary, D.F.R.; Gomes, N.C.M.. 2009. "Freeze-thaw pre-lysis may not improve microbial DNA extraction from sponges". BioMicroWorld’09 – III International Conference on Environmental, Industrial and Applied Microbiology - Lisbon, Portugal
-
-
-</details>
-
