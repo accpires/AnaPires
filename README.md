@@ -219,9 +219,8 @@ Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
 </summary>
 <br>
 
-<img align="left" width="25" height="25" src="https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286">
-
 ###### <span style="color:grey"> 2021 </span>
+<img align="left" width="30" height="30" src="https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286">
 International Journal of Molecular Sciences
 </details>
   
