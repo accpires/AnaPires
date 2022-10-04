@@ -43,7 +43,7 @@ BSc in Marine Biology and Biotechnology – Biotechnology branch by the School o
 <br>
 
 ##### <span style="color:grey"> August of 2022 </span>
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_100_100/0/1582272345448?e=1672876800&v=beta&t=vNRXRPU8QbFxLDfP3SVWNTggeP_iG5UZzq8uAiZZWBs">
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_100_100/0/1582272345448?e=1672876800&v=beta&t=vNRXRPU8QbFxLDfP3SVWNTggeP_iG5UZzq8uAiZZWBs" src="https://idss.mit.edu/wp-content/themes/idss%202015/images/IDSS_Horizontal_FullColor.jpg">
 
 Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes), Zero to Mastery Academy
 
