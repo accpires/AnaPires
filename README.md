@@ -1,5 +1,6 @@
 # Ana Pires
-<img src="https://github.com/accpires/AnaPires/blob/main/profile_pic.jpg?raw=true" width="150" height="185">
+
+<img width="150" height="185" src="ttps://user-images.githubusercontent.com/81449446/193809952-8c877822-9849-45ca-933d-4f55deeeb450.jpg">
 
 [Academics](https://github.com/accpires/AnaPires/blob/main/README.md#academics)
 
@@ -30,7 +31,7 @@
 <details open>
 <summary>
 
-# Academics
+## Academics
 
 </summary>
 <br>
