@@ -230,7 +230,7 @@ International Journal of Molecular Sciences
 <br>
 
 ###### <span style="color:grey"> April 2020 </span>
- <img src="![EUvsVirus Participant Badge](https://user-images.githubusercontent.com/81449446/193787341-7a7d3b84-c916-467c-adb1-6545a673d9bf.png)" width="150" height="185">
+ <img ![EUvsVirus Participant Badge]src="https://user-images.githubusercontent.com/81449446/193787341-7a7d3b84-c916-467c-adb1-6545a673d9bf.png" width="150" height="185">
  
  Pan-European Hackathon #EUvsVirus 2020 (remote activity)
   * domain Health & Life | Cheap rapid tests
