@@ -63,6 +63,8 @@ Complete Machine Learning & Data Science Bootcamp 2021 (43h, 376 classes), Zero 
 Complete Python Developer in 2020: Zero to Mastery (30.5h, 329 classes), Zero to Mastery Academy
 
 ###### <span style="color:grey"> March 23 to April 6 of 2021 </span> 
+<img align="left" width="50" height="50" src="https://scontent.fopo5-1.fna.fbcdn.net/v/t39.30808-6/274720011_318130380352522_1467164329790862991_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=EFa3oDMQVCEAX--GgBw&_nc_ht=scontent.fopo5-1.fna&oh=00_AT_9A-cEIJnqCNOKoCYD3VvFVPX1J3hxKnnWKM7nVKItUQ&oe=63412827">
+ 
 Time Management and Work Organization (25h), IEFP – Instituto do Emprego e Formação Profissional
  
 ###### <span style="color:grey"> September 12-16 of 2016 </span>
