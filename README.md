@@ -5,7 +5,7 @@
 
 [Additional Training](https://github.com/accpires/AnaPires/blob/main/README.md#additional-training)
 
-[Professional Experience](https://github.com/accpires/AnaPires/blob/main/README.md#professional-skills)
+[Professional Experience](https://github.com/accpires/AnaPires/blob/main/README.md#professional-experience)
 
 [Professional Skills](https://github.com/accpires/AnaPires/blob/main/README.md#professional-skills)
 
