@@ -31,6 +31,7 @@ BSc in Marine Biology and Biotechnology – Biotechnology branch by the School o
  * final score of 15 out of 20
 </details>
 
+
 <details open>
 <summary>
 
