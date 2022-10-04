@@ -2,7 +2,7 @@
 
 <img align="left" width="150" height="180" src="https://user-images.githubusercontent.com/81449446/193809952-8c877822-9849-45ca-933d-4f55deeeb450.jpg">
 
-<p class="text-justify">
+<p align="justify">
 Passionate researcher with 10+ of experience in data manipulation, analysis and visualisation in R, resulting in 3 articles as first author and 9 articles as co-author. In these works, I performed data wrangling and ETL to prepare the sequences files to manipulate, analyse and visualize data. Fast learner, committed to work, with strong communication and problem-solving skills. Seeking to develop and improve data science skills.
 </p>
 
