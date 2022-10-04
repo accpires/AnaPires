@@ -118,7 +118,7 @@ Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profiss
   *	Easy-going person with a professional attitude
   *	Knowledgeable and able to help customers
 
-<img align="right" width="50" height="50" src="https://www.uc.pt/site/assets/files/1/lettering-uc.300x0.png">
+<img align="right" width="100" height="50" src="https://www.uc.pt/site/assets/files/1/lettering-uc.300x0.png">
  
 ###### <span style="color:grey"> October 2019 – September 2020 </span>
 
