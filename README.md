@@ -108,7 +108,8 @@ Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profiss
 <br>
 
 ###### <span style="color:grey"> May 2021 – January 2022 </span>
-<img align="left" width="50" height="50" src="https://scontent.fopo5-2.fna.fbcdn.net/v/t39.30808-6/278084386_354041906740875_3531220556472153919_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W2677Vge3XUAX8U_xSD&_nc_ht=scontent.fopo5-2.fna&oh=00_AT-5-v2ys3cbT7wuNm2w7e_YoqXxtwOYXDEh8wXQhfz1sQ&oe=634067EC">
+<img align="left" width="100" height="100" src="https://scontent.fopo5-2.fna.fbcdn.net/v/t39.30808-6/278084386_354041906740875_3531220556472153919_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W2677Vge3XUAX8U_xSD&_nc_ht=scontent.fopo5-2.fna&oh=00_AT-5-v2ys3cbT7wuNm2w7e_YoqXxtwOYXDEh8wXQhfz1sQ&oe=634067EC">
+
  Waitress, Cookies by Cath, Aveiro (Portugal)
   *	Quick and efficient working manners
   *	Excellent communication skills
@@ -117,7 +118,8 @@ Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profiss
   *	Knowledgeable and able to help customers
  
 ###### <span style="color:grey"> October 2019 – September 2020 </span>
-<img align="left" width="50" height="50" src="https://www.uc.pt/site/assets/files/1/lettering-uc.300x0.png">
+<img align="left" width="100" height="100" src="https://www.uc.pt/site/assets/files/1/lettering-uc.300x0.png">
+
 Research Fellow, University of Coimbra (Portugal)
   *	Project “PTW-Biotools for a sustainable supply of tungsten from biodetection to bioleaching and biorecovery” financed by FCT and FEDER
   *	Supervision of master’s student (Materials Engineering); thesis: "Use of microbial biopolymer to decrease soil permeability by bioclogging" – using xanthan gum biopolymer in soil stabilisation and impermeabilization tests under different rain regimes
@@ -125,14 +127,16 @@ Research Fellow, University of Coimbra (Portugal)
   *	Supervision of Biochemistry bachelor students during their Summer internships
  
 ###### <span style="color:grey"> May 2017 – September 2019 </span>
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+<img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
 Research Fellow, University of Aveiro (Portugal)
   *	Project “EcoTech-SPONGE- Assessing the ecological functions and potential biotechnological applications of plasmid assemblages from microbial symbionts of marine sponges”
   *	Development of the project’s database: building, organizing and managing all the metadata generated within its scope: http://www.cesam.ua.pt/?menu=&language=eng&tabela=projectosdetail&projectid=658
   *	Laboratory work
 
 ###### <span style="color:grey"> January 2013 – December 2016 </span>
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+<img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
 PhD Student (Grant), University of Aveiro (Portugal)
   *	Thesis: "Comparison of bacterial communities in sponge, sediment and water biotopes in the Indo-Pacific region"
   *	Development of a strong training and background in molecular and environmental microbiology, bioinformatics and biostatistics
@@ -142,7 +146,8 @@ PhD Student (Grant), University of Aveiro (Portugal)
   *	Mentoring of master’s student (Microbiology); thesis: " Assessment of the codfish skin microbiology"
 
 ###### <span style="color:grey"> November 2010 - December 2012 </span>
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+<img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
 Research Fellow, University of Aveiro (Portugal)
   *	Project “Global climate change and pollution: a synergy designed for disaster?” (PTDC/AAC-CLI/107916/2008)
   *	Field and laboratory work, including sampling, DNA extraction, FISH analyses, metagenomic analyses
@@ -154,11 +159,13 @@ Research Fellow, University of Aveiro (Portugal)
  
 ###### <span style="color:grey"> November 2010 - December 2012 </span>
 <img align="left" width="50" height="50" src="https://www.cinfu.pt/img/logo_full.svg">
+
 Intern Technician at CINFU (Centro de Formação Profissional da Indústria de Fundição), Porto (Portugal)
   *	Maintenance of CINFU’s SGFOR database; Data insertion /management in the SGFOR database
 
 ###### <span style="color:grey"> May 2008 - August 2008 </span>
 <img align="left" width="50" height="50" src="https://www.cinfu.pt/img/logo_full.svg">
+
 Unpaid intern at CINFU (Centro de Formação Profissional da Indústria de Fundição), Porto (Portugal)
   *	Quality Certification of CINFU by the Standard NP EN ISO 9001: 2000, integrating the responsible team for Quality Management System
 
