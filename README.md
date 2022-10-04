@@ -128,7 +128,7 @@ Research Fellow, University of Coimbra (Portugal)
   *	Evaluation of bacterial diversity and selection and characterisation of leaching bacteria from mining sediments
   *	Supervision of Biochemistry bachelor students during their Summer internships
 
-<img align="right" width="75" height="75" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+<img align="right" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> May 2017 – September 2019 </span>
 
@@ -137,7 +137,7 @@ Research Fellow, University of Aveiro (Portugal)
   *	Development of the project’s database: building, organizing and managing all the metadata generated within its scope: http://www.cesam.ua.pt/?menu=&language=eng&tabela=projectosdetail&projectid=658
   *	Laboratory work
 
-<img align="right" width="75" height="75" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+<img align="right" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> January 2013 – December 2016 </span>
 
@@ -149,7 +149,7 @@ PhD Student (Grant), University of Aveiro (Portugal)
   *	Projects’ management and elaboration and justification of project final reports
   *	Mentoring of master’s student (Microbiology); thesis: " Assessment of the codfish skin microbiology"
 
-<img align="right" width="75" height="75" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+<img align="right" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> November 2010 - December 2012 </span>
 
