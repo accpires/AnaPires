@@ -103,6 +103,8 @@ Advance Course on Marine Microbiology (40h), Department of Biology, University o
 Advanced Introduction to Forensic Sciences (22h), Department of Biology, University of Aveiro
 
 ###### <span style="color:grey"> March 3 to April 30 of 2008 </span>
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHTv4dmjuAFPQ/company-logo_200_200/0/1519922054078?e=1672876800&v=beta&t=LRGSuyeF1iFC0dTRHJ57Ub2IvVYP0888PTurV938xwk">
+
 Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profissional) (96h), AIDA – Associação Industrial do Distrito de Aveiro
 
 </details>
