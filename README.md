@@ -58,35 +58,35 @@ Time Management and Work Organization (25h), IEFP – Instituto do Emprego e For
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 Advanced Course on Bioinformatics for Microbiologists (40h), Department de Biology, University of Aveiro
- 
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
 ###### <span style="color:grey"> May 25-29 of 2015 </span>
-Advanced Course on Biomarkers – SETAC Summer School (40h), Department de Biology, University of Aveiro
- 
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
+Advanced Course on Biomarkers – SETAC Summer School (40h), Department de Biology, University of Aveiro
 
 ###### <span style="color:grey"> July 15-19 of 2013 </span>
-Advanced Course on Microbial Diversity: Methods and Applications (40h), Department of Biology, University of Aveiro
- 
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
+Advanced Course on Microbial Diversity: Methods and Applications (40h), Department of Biology, University of Aveiro
 
 ###### <span style="color:grey"> June 11-14 of 2013 </span>
-Advanced Course on Scientific Communication (40h), Department of Biology, University of Aveiro
- 
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
+Advanced Course on Scientific Communication (40h), Department of Biology, University of Aveiro
 
 ###### <span style="color:grey"> June 3- 7 of 2013 </span>
-Advance Course on Marine Microbiology (40h), Department of Biology, University of Aveiro
- 
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
- 
-###### <span style="color:grey"> February 9 of 2010 </span>
-“Utilização, Gestão e Calibração de Balanças” (1h), Laboratório Central de Análises, University of Aveiro
- 
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
 
+Advance Course on Marine Microbiology (40h), Department of Biology, University of Aveiro
+ 
+###### <span style="color:grey"> February 9 of 2010 </span>
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
+“Utilização, Gestão e Calibração de Balanças” (1h), Laboratório Central de Análises, University of Aveiro
+
 ###### <span style="color:grey"> March 7 to May 30 of 2009 </span>
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+
 Advanced Introduction to Forensic Sciences (22h), Department of Biology, University of Aveiro
 
 ###### <span style="color:grey"> March 3 to April 30 of 2008 </span>
