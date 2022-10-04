@@ -235,7 +235,7 @@ International Journal of Molecular Sciences
  Pan-European Hackathon #EUvsVirus 2020 (remote activity)
     
   * Domain Health & Life | Cheap rapid tests
-    * Team LAMP for Covid19
+   * Team LAMP for Covid19
     *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
     *	Project available in: https://devpost.com/software/lamp-for-covid-19
 </details>
