@@ -30,19 +30,19 @@
 <details open>
 <summary>
 
-### Academics
+# Academics
 
 </summary>
 <br>
 
-###### <span style="color:grey"> 2019 </span>
+## <span style="color:grey"> 2019 </span>
 PhD in Biology, Specialization in Microbiology by the Department of Biology, University of Aveiro, Portugal
 
-###### <span style="color:grey"> 2010 </span>
+## <span style="color:grey"> 2010 </span>
 MSc in Microbiology by the Department of Biology, University of Aveiro, Portugal 
  * final score of 17 out of 20
  
-###### <span style="color:grey"> 2007 </span>
+## <span style="color:grey"> 2007 </span>
 BSc in Marine Biology and Biotechnology – Biotechnology branch by the School of Tourism and Maritime Technology (ESTM) of the Polytechnic Institute of Leiria (IPL), Portugal
  * final score of 15 out of 20
 </details>
@@ -50,12 +50,12 @@ BSc in Marine Biology and Biotechnology – Biotechnology branch by the School o
 <details open>
 <summary>
 
-### Additional Training
+# Additional Training
 
 </summary>
 <br>
 
-###### <span style="color:grey"> August of 2022 </span>
+## <span style="color:grey"> August of 2022 </span>
 Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes), Zero to Mastery Academy
 
 ###### <span style="color:grey"> May of 2022 </span>
