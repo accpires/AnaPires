@@ -162,7 +162,7 @@ Research Fellow, University of Aveiro (Portugal)
   *	Tidal simulation
   *	Stock management of material needed for the project
  
-<img align="right" width="75" height="75" src="https://www.cinfu.pt/img/logo_full.svg">
+<img align="right" width="100" height="100" src="https://www.cinfu.pt/img/logo_full.svg">
 
 ###### <span style="color:grey"> November 2010 - December 2012 </span>
 
