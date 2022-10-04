@@ -206,7 +206,7 @@ Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
 <br>
  
  <img align="right" width="100" height="100" src="https://www.padi.com/themes/custom/bootstrap_padi/public/images/logo_padi_dark.svg">
-<img align="right" width="125" height="100" src="https://scontent.fopo5-1.fna.fbcdn.net/v/t1.6435-9/62256839_2270875439897433_3719621740544917504_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=H0Cxba86th4AX8J3smT&tn=B5UYHutveKbfwGgH&_nc_ht=scontent.fopo5-1.fna&oh=00_AT8OgM4LAEpaUy1H2RnZt7SHVM_pztfhD-rcymPgNOLrFQ&oe=6362EEC5">
+<img align="left" width="125" height="100" src="https://scontent.fopo5-1.fna.fbcdn.net/v/t1.6435-9/62256839_2270875439897433_3719621740544917504_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=H0Cxba86th4AX8J3smT&tn=B5UYHutveKbfwGgH&_nc_ht=scontent.fopo5-1.fna&oh=00_AT8OgM4LAEpaUy1H2RnZt7SHVM_pztfhD-rcymPgNOLrFQ&oe=6362EEC5">
  
   * Quilling
   * Cross stitch
