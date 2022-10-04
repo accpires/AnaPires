@@ -107,7 +107,7 @@ Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profiss
 </summary>
 <br>
 
-<img align="right" width="100" height="100" src="https://scontent.fopo5-2.fna.fbcdn.net/v/t39.30808-6/278084386_354041906740875_3531220556472153919_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W2677Vge3XUAX8U_xSD&_nc_ht=scontent.fopo5-2.fna&oh=00_AT-5-v2ys3cbT7wuNm2w7e_YoqXxtwOYXDEh8wXQhfz1sQ&oe=634067EC">
+<img align="right" width="125" height="125" src="https://scontent.fopo5-2.fna.fbcdn.net/v/t39.30808-6/278084386_354041906740875_3531220556472153919_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W2677Vge3XUAX8U_xSD&_nc_ht=scontent.fopo5-2.fna&oh=00_AT-5-v2ys3cbT7wuNm2w7e_YoqXxtwOYXDEh8wXQhfz1sQ&oe=634067EC">
  
 ###### <span style="color:grey"> May 2021 – January 2022 </span>
  
