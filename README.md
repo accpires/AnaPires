@@ -241,10 +241,13 @@ International Journal of Molecular Sciences
   *	Aim of the project: to develop a cheaper, easier to handle and faster test for detecting SARS-CoV-2
   *	Project available in: https://devpost.com/software/lamp-for-covid-19
 </details>
-  
+
+
+
 <details open>
 <summary>
-  
+
+
 ### Data Science & Machine Learning Projects
 
 </summary>
