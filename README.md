@@ -42,7 +42,6 @@ BSc in Marine Biology and Biotechnology – Biotechnology branch by the School o
 
 ##### <span style="color:grey"> August of 2022 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_100_100/0/1582272345448?e=1672876800&v=beta&t=vNRXRPU8QbFxLDfP3SVWNTggeP_iG5UZzq8uAiZZWBs">
- 
 
 Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes), Zero to Mastery Academy
 
@@ -50,11 +49,11 @@ Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes)
 Data Science and Machine Learning: Making Data-Driven Decisions program (12 weeks), MIT Institute for Data, Systems, and Society
 
 ###### <span style="color:grey"> January of 2022 </span>
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_100_100/0/1582272345448?e=1672876800&v=beta&t=vNRXRPU8QbFxLDfP3SVWNTggeP_iG5UZzq8uAiZZWBs">
 Complete Machine Learning & Data Science Bootcamp 2021 (43h, 376 classes), Zero to Mastery Academy
 
 ###### <span style="color:grey"> April of 2021 </span>
-<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQHAS4Z39hr8bw/company-logo_200_200/0/1519856535357?e=1672876800&v=beta&t=1rXlR913QtHiHDx9DoOc46FXzYuEMewo1RJ89SHz8T4">
+<img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_100_100/0/1582272345448?e=1672876800&v=beta&t=vNRXRPU8QbFxLDfP3SVWNTggeP_iG5UZzq8uAiZZWBs">
 Complete Python Developer in 2020: Zero to Mastery (30.5h, 329 classes), Zero to Mastery Academy
 
 ###### <span style="color:grey"> March 23 to April 6 of 2021 </span> 
