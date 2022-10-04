@@ -208,6 +208,7 @@ Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
   * Quilling
   * Cross stitch
  <img align="right" width="100" height="100" src="https://www.padi.com/themes/custom/bootstrap_padi/public/images/logo_padi_dark.svg">
+ 
   * PADI Scuba Diving Certification 
      - PADI Open Water Diver
 
