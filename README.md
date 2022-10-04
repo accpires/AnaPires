@@ -49,10 +49,10 @@ Complete SQL and Databases Bootcamp: Zero to Mastery [2022] (24.5h, 279 classes)
 
 ###### <span style="color:grey"> May of 2022 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHBK7qvTvtkZA/company-logo_100_100/0/1519856414204?e=1672876800&v=beta&t=bvwTV5hfi5wqu9avyPAgeO0iDX13qBHZfQW9r1XG1YE">
+
+<img align="right" width="50" height="50" src="https://idss.mit.edu/wp-content/themes/idss%202015/images/IDSS_Horizontal_FullColor.jpg">
  
 Data Science and Machine Learning: Making Data-Driven Decisions program (12 weeks), MIT Institute for Data, Systems, and Society
- 
-<img align="right" width="50" height="50" src="https://idss.mit.edu/wp-content/themes/idss%202015/images/IDSS_Horizontal_FullColor.jpg">
 
 ###### <span style="color:grey"> January of 2022 </span>
 <img align="left" width="50" height="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_100_100/0/1582272345448?e=1672876800&v=beta&t=vNRXRPU8QbFxLDfP3SVWNTggeP_iG5UZzq8uAiZZWBs">
