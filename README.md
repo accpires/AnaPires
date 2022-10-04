@@ -28,7 +28,7 @@ BSc in Marine Biology and Biotechnology – Biotechnology branch by the School o
 <details open>
 <summary>
 
-# Additional Training
+### Additional Training
 
 </summary>
 <br>
