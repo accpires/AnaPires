@@ -7,13 +7,9 @@ Passionate researcher with 10+ of experience in data manipulation, analysis and 
 </p>
 
 
-<details open>
-<summary>
 
 ### Academics
 
-</summary>
-<br>
 
 
 ##### <span style="color:grey"> 2019 </span>
