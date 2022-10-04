@@ -205,12 +205,14 @@ Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
 </summary>
 <br>
  
- <img align="right" width="100" height="100" src="https://www.padi.com/themes/custom/bootstrap_padi/public/images/logo_padi_dark.svg">
 <img align="left" width="125" height="100" src="https://scontent.fopo5-1.fna.fbcdn.net/v/t1.6435-9/62256839_2270875439897433_3719621740544917504_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=H0Cxba86th4AX8J3smT&tn=B5UYHutveKbfwGgH&_nc_ht=scontent.fopo5-1.fna&oh=00_AT8OgM4LAEpaUy1H2RnZt7SHVM_pztfhD-rcymPgNOLrFQ&oe=6362EEC5">
 <img align="right" width="125" height="75" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/310751785_490623762927579_1214065741002730295_n.jpg?stp=dst-jpg_p206x206&_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_ohc=9d2sFG2AbFcAX_mkxq9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLH2xUvE0ekYGgQfseQ5q1qFa_8wk_3ycyWGjOBCWN8hQ&oe=6361B8A7">
  
   * Quilling
   * Cross stitch
+ 
+ <img align="right" width="100" height="100" src="https://www.padi.com/themes/custom/bootstrap_padi/public/images/logo_padi_dark.svg">
+ 
   * PADI Scuba Diving Certification 
      - PADI Open Water Diver
 
