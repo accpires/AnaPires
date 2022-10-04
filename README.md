@@ -163,12 +163,10 @@ Unpaid intern at CINFU (Centro de Formação Profissional da Indústria de Fundi
   *	Quality Certification of CINFU by the Standard NP EN ISO 9001: 2000, integrating the responsible team for Quality Management System
 
 ###### <span style="color:grey"> April 2008 - August 2008 </span>
-<img align="left" width="50" height="50" src="http://accaocontinuacentro.pt/wp-content/uploads/2021/04/AC-CENTRO-1536x437.png">
 Unpaid intern at HS2 – Higiene, Saúde e Segurança do Trabalho, Lda., Aveiro (Portugal)
   *	Development and implementation of HACCP principles, integrating the responsible team for HACCP Systems of HS2
  
 ###### <span style="color:grey"> June 2007 - March 2008 </span>
-<img align="left" width="50" height="50" src="http://accaocontinuacentro.pt/wp-content/uploads/2021/04/AC-CENTRO-1536x437.png">
 Clerk at Dinis & Ribeiro, Lda., Calvão – Vagos, Aveiro (Portugal)
   *	Costumer service, materials transportation, assistance in logistics
 
