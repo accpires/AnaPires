@@ -28,7 +28,8 @@ MSc in Microbiology by the Department of Biology, University of Aveiro, Portugal
  
 BSc in Marine Biology and Biotechnology – Biotechnology branch by the School of Tourism and Maritime Technology (ESTM) of the Polytechnic Institute of Leiria (IPL), Portugal
 <br/><br/>
-&emsp; * final score of 15 out of 20
+&emsp;
+* final score of 15 out of 20
 
 
 ## Additional Training
