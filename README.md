@@ -22,7 +22,6 @@ PhD in Biology, Specialization in Microbiology by the Department of Biology, Uni
  
 MSc in Microbiology by the Department of Biology, University of Aveiro, Portugal 
  * final score of 17 out of 20
-<br/><br/>
 
 ###### <span style="color:grey"> 2007 </span>
 <img align="left" width="175" height="50" src="https://www.ipleiria.pt/estm/wp-content/uploads/sites/21/2019/04/estm_h-01.png">
