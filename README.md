@@ -5,7 +5,9 @@
 <p align="justify">
 Passionate researcher with 10+ of experience in data manipulation, analysis and visualisation in R, resulting in 3 articles as first author and 9 articles as co-author. In these works, I performed data wrangling and ETL to prepare the sequences files to manipulate, analyse and visualize data. Fast learner, committed to work, with strong communication and problem-solving skills. Seeking to develop and improve data science skills.
 </p>
-<br/><br/>
+<br/>
+
+<br/>
 
 
 ## Academics
