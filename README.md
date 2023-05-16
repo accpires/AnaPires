@@ -14,6 +14,7 @@ Passionate researcher with 10+ of experience in data manipulation, analysis and 
  
 PhD in Biology, Specialization in Microbiology by the Department of Biology, University of Aveiro, Portugal
 
+
 ###### <span style="color:grey"> 2010 </span>
 <img align="left" width="175" height="50" src="http://transportes-tema.web.ua.pt/Img/UA.png">
  
