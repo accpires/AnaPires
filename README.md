@@ -5,7 +5,7 @@
 <p align="justify">
 Passionate researcher with 10+ of experience in data manipulation, analysis and visualisation in R, resulting in 3 articles as first author and 9 articles as co-author. In these works, I performed data wrangling and ETL to prepare the sequences files to manipulate, analyse and visualize data. Fast learner, committed to work, with strong communication and problem-solving skills. Seeking to develop and improve data science skills.
 </p>
-
+<br/><br/>
 
 ## Academics
 
@@ -13,7 +13,6 @@ Passionate researcher with 10+ of experience in data manipulation, analysis and 
 <img align="left" width="175" height="50" src="http://transportes-tema.web.ua.pt/Img/UA.png">
  
 PhD in Biology, Specialization in Microbiology by the Department of Biology, University of Aveiro, Portugal
-
 <br/><br/>
 
 ###### <span style="color:grey"> 2010 </span>
@@ -21,14 +20,14 @@ PhD in Biology, Specialization in Microbiology by the Department of Biology, Uni
  
 MSc in Microbiology by the Department of Biology, University of Aveiro, Portugal 
  * final score of 17 out of 20
- 
+<br/><br/>
+
 ###### <span style="color:grey"> 2007 </span>
 <img align="left" width="175" height="50" src="https://www.ipleiria.pt/estm/wp-content/uploads/sites/21/2019/04/estm_h-01.png">
  
 BSc in Marine Biology and Biotechnology – Biotechnology branch by the School of Tourism and Maritime Technology (ESTM) of the Polytechnic Institute of Leiria (IPL), Portugal
  * final score of 15 out of 20
-
-
+<br/><br/>
 
 ## Additional Training
 
