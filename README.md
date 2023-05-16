@@ -10,7 +10,7 @@ Passionate researcher with 10+ of experience in data manipulation, analysis and 
 ## Academics
 
 ###### <span style="color:grey"> 2019 </span>
-<img align="left" width="50" height="50" src="https://www.ua.pt/imgs/logo.svg(https://www.ua.pt/)">
+<img align="left" width="50" height="50" src="https://www.ua.pt/imgs/logo.svg">
  
 PhD in Biology, Specialization in Microbiology by the Department of Biology, University of Aveiro, Portugal
 
