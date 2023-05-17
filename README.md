@@ -1,5 +1,5 @@
 # Ana Pires
-
+<br/><br/>
 <img align="left" width="140" height="180" src="https://user-images.githubusercontent.com/81449446/193809952-8c877822-9849-45ca-933d-4f55deeeb450.jpg">
 
 <p align="justify">
