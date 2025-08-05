@@ -3,7 +3,7 @@
 <img align="left" width="140" height="180" src="https://user-images.githubusercontent.com/81449446/193809952-8c877822-9849-45ca-933d-4f55deeeb450.jpg">
 
 <p align="justify">
-Passionate researcher with 10+ of experience in data manipulation, analysis and visualisation in R, resulting in 3 articles as first author and 9 articles as co-author. In these works, I performed data wrangling and ETL to prepare the sequences files to manipulate, analyse and visualize data. Fast learner, committed to work, with strong communication and problem-solving skills. Seeking to develop and improve data science skills.
+Passionate researcher with 10+ of experience in data manipulation, analysis and visualisation in R, resulting in 3 articles as first author and 9 articles as co-author. In these works, I performed data wrangling and ETL to prepare the sequences files to manipulate, analyse and visualize data. Fast learner, committed to work, with strong communication and problem-solving skills. Seeking to develop and improve data analysis skills.
 </p>
 
 <br/><br/>
@@ -90,6 +90,30 @@ Certificado de Aptidão Pedagógica de Formador (Certificado de Aptidão Profiss
 ## Professional Experience
 
 <img align="right" width="115" height="115" src="https://scontent.fopo5-2.fna.fbcdn.net/v/t39.30808-6/278084386_354041906740875_3531220556472153919_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W2677Vge3XUAX8U_xSD&_nc_ht=scontent.fopo5-2.fna&oh=00_AT-5-v2ys3cbT7wuNm2w7e_YoqXxtwOYXDEh8wXQhfz1sQ&oe=634067EC">
+
+###### <span style="color:grey"> July 2023 – present </span>
+ 
+ Junior Data Analyst, LetsGetChecked (Portugal)
+  *	QA Testing
+  *	Provide quality assurance of imported data from different sources
+  *	Support Data Engineers 
+     *	Gather and understand business requirements
+     * Evaluating and testing pipeline development
+  *	Manipulate, analyse and interpret complex data sets
+  *	Monitor and audit data quality
+  *	Work the JIRA ticket queue for any data related requests and tasks
+  *	Develop (as a team member) a custom Data Quality framework
+
+###### <span style="color:grey"> October 2022 – April 2023 </span>
+ 
+ Data Science / Analysis Trainee, Teka Portugal S.A. (Portugal)
+  *	Identify ERP system Master Data
+  *	Implementation and maintenance of Master Data 
+     *	Create processes
+     * Create workflows
+     * Data quality monitoring systems
+  *	Create dashboards of relevant KPI’s in each area
+  *	Understand the Microsoft Dynamics 365 capabilities
  
 ###### <span style="color:grey"> May 2021 – January 2022 </span>
  
